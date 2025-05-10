@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Me chamo Laura Silva Nascimento, tenho 17 anos e sou natural de São Paulo, capital. Estou atualmente no último ano do Ensino Médio e faço curso técnico em Desenvolvimento de Sistemas pela Unicesumar. Sou apaixonada por tecnologia, criações e desenvolvimento.
+Me chamo Laura Silva Nascimento, tenho 17 anos e sou natural de São Paulo, capital. Estou atualmente cursando o último ano do Ensino Médio e fazendo curso técinico de Desenvolvimento de Sistemas pela Unicesumar. Sou apaixonada por tecnologia, criações e desenvolvimento.
 
 <p align="left">
     <a href="https://github.com/LauraNss?tab=repositories&sort=stargazers">
